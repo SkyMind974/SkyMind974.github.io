@@ -1,10 +1,10 @@
 body {
     color: black; 
-    background-image: url(https://cdn.discordapp.com/attachments/890196503187030066/937988756768702534/nyan-cat-gif-1.gif);
+    background-image: url(https://cdn.discordapp.com/attachments/890196503187030066/937994525476012102/71ce819f3e164b1cdcc92f40e12e6b18.jpg);
 }
 body#jeu{ 
     color: white; 
-    background-image: url(https://cdn.discordapp.com/attachments/890196503187030066/937988756768702534/nyan-cat-gif-1.gif);
+    background-image: url(https://cdn.discordapp.com/attachments/890196503187030066/937994525476012102/71ce819f3e164b1cdcc92f40e12e6b18.jpg);
 }
 div#selection{
     background: linear-gradient(70deg, blue, purple,yellow,green);
