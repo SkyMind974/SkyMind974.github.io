@@ -1,10 +1,10 @@
 body {
     color: black; 
-    background-image: url(https://cdn.discordapp.com/attachments/606856235207360522/915984321150595082/Sans-titre.gif);
+    background-image: url(https://cdn.discordapp.com/attachments/890196503187030066/937984039309148181/PiercingSaltyDugong-size_restricted.gif);
 }
 body#jeu{ 
     color: white; 
-    background-image: url(https://cdn.discordapp.com/attachments/606856235207360522/915984321150595082/Sans-titre.gif);
+    background-image: url(https://cdn.discordapp.com/attachments/890196503187030066/937984039309148181/PiercingSaltyDugong-size_restricted.gif);
 }
 div#selection{
     background: linear-gradient(70deg, blue, purple,yellow,green);
