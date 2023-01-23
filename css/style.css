@@ -18,6 +18,8 @@ div#selection{
 
 div.header{
     width: 100%;
+    background: linear-gradient(70deg, blue, purple,yellow,green);
+    text-align:center;
 }
 
 div#contacter{
@@ -59,7 +61,7 @@ div#test{
 }
 h1{
     color: black;
-    background: linear-gradient(70deg, blue, purple,yellow,green);
+    
 
 }
 h1#jeu{
